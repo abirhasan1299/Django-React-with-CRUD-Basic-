@@ -1,0 +1,28 @@
+.header{
+    background-color: teal;
+    padding:20px;
+    width: 100%;
+}
+.header ul li{
+    float: left;
+    margin-left: 3%;
+    list-style-type: none;
+}
+.header a{
+    
+    font-size: 23px;
+    color:ghostwhite;
+    font-weight: bolder;
+    font-family: cursive;
+    text-decoration: none;
+}
+.card{
+    padding:20px;
+    margin: 15px;
+}
+.loader{
+    
+    position: absolute;
+    top:50%;
+    right:50%;
+}
